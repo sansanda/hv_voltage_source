@@ -1,0 +1,16 @@
+{
+    "K2400_gpibAddress": 25,
+    "HVSource_gpibAddress": 20,
+    "initialVoltage": 0,
+    "finalVoltage": 10000,
+    "pointsVoltage": 50,
+    "measureDelay_ms": 0,
+    "rampVoltage": 100,
+    "outputCurrentLimit": 0.001,
+    "enableKill": "True",
+    "ammeterRange": 0.000001,
+    "ammeterCompliance": 0.0000001,
+    "ammeterNPLCs": 1,
+    "resultsFilePath": "./measure_results/s8@225_1132h",
+    "resultsFilePathExtension": "dat"
+}
